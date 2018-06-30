@@ -19,10 +19,6 @@ function whileLoop(number) {
 }
 
 
-var a = 20
-
-whileLoop(a)
-
 
 
 
