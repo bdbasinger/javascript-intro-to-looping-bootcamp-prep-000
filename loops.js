@@ -28,10 +28,12 @@ function doWhileLoop(array) {
     array.pop()
     console.log(array)
   } while (array.length > 0 && maybeTrue())
+  return array
 }
 
 
 a = [1,2,3,4,5]
+doWhileLoop(a)
 
 
 
