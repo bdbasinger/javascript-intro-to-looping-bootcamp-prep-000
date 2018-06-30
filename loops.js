@@ -14,7 +14,7 @@ function forLoop(array) {
 function whileLoop(number) {
   while (number > 0) {
     console.log(number)
-    number--
+    number = number - 1
   }
 }
 
