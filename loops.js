@@ -31,8 +31,7 @@ function doWhileLoop(array) {
   return array
 }
 
-a = [1,2,3,4,5]
-doWhileLoop(a)
+
 
 
 
